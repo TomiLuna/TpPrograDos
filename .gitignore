@@ -1,0 +1,13 @@
+*.class
+bin/
+target/
+build/
+out/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.iws
+.DS_Store
+Thumbs.db
